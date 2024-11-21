@@ -8,7 +8,7 @@
 		"preview": "vite preview"
 	},
 	"devDependencies": {
-		"@neoconfetti/svelte": "^1.0.0",
+		"@neoconfetti/svelte": "^2.2.1",
 		"@sveltejs/adapter-auto": "workspace:*",
 		"@sveltejs/kit": "workspace:*",
 		"svelte": "^3.56.0",
