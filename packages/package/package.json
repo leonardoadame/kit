@@ -14,7 +14,7 @@
 		"chokidar": "^3.5.3",
 		"kleur": "^4.1.5",
 		"sade": "^1.8.1",
-		"svelte2tsx": "~0.6.0"
+		"svelte2tsx": "~0.7.31"
 	},
 	"devDependencies": {
 		"@types/node": "^20.10.7",
